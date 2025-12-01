@@ -13,7 +13,6 @@ Skin diseases affect millions of people worldwide, often requiring expert diagno
 ![About](asset/about.png)
 1. **Detection Page**: Users upload an image of the affected skin area.
 ![detection](asset/detection1.png)
-![detection](asset/detection2.png)
 ![detection](asset/detection3.png)
 
 2. **Image Analysis**: The deep learning model processes the image, extracting features and comparing them with its extensive database.
@@ -30,4 +29,5 @@ Our website is built using the latest technologies in web development and deep l
 ## Disclaimer
 
 This platform is intended for preliminary diagnosis and educational purposes only. It should not replace professional medical advice, diagnosis, or treatment. Always consult a healthcare provider for any skin-related concerns.
+
 
