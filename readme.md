@@ -25,9 +25,13 @@ Our website is built using the latest technologies in web development and deep l
 - **Back-end**: Python
 - **Deep Learning**: Implemented using TensorFlow and Keras, leveraging pre-trained models and fine-tuning them on a specialized skin disease dataset.
 
+## Dataset 
+https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset
+
 ## Disclaimer
 
 This platform is intended for preliminary diagnosis and educational purposes only. It should not replace professional medical advice, diagnosis, or treatment. Always consult a healthcare provider for any skin-related concerns.
+
 
 
 
